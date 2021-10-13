@@ -4,19 +4,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/denitsa-dey)
 
 
-### Glad to see you here! &nbsp; ![]
+### Glad to see you here! &nbsp; !
+
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=DenitsaDey&color=#FFB0A1">
 
 
 I am committed to learning and self-development so that I can consistently achieve better results.
 
 <img width="200"  src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr">
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
-
-
-[![](https://gitwar.herokuapp.com/badge?username=ErfanRht&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-
 
 ### Talking about Personal Stuff:
 
