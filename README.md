@@ -1,4 +1,4 @@
-<p align="center">
+
 ## Hey 👋, I'm [Denitsa Dey](https://github.com/DenitsaDey/)
 
 
@@ -12,8 +12,8 @@
 
 I am committed to learning and self-development so that I can consistently achieve better results.
 
-<img width="200"  src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
+<img width="200"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently studying for Full Stack .NET Developer at [SoftUni](https://softuni.bg/) .
