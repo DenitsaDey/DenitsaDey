@@ -9,10 +9,10 @@
 
 <img width="150" height="40" src="https://visitor-badge.glitch.me/badge?page_id=DenitsaDey&color=#FFB0A1">
 
-
+<img align="center" height="250" width="375" alt=""  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 I am committed to learning and self-development so that I can consistently achieve better results.
 
-<img width="200"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 ### Talking about Personal Stuff:
 
