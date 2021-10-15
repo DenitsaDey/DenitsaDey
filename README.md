@@ -9,7 +9,7 @@
 
 I am committed to learning and self-development so that I can consistently achieve better results.
 </div>
-<img align="left" width="300" alt="" border-width="50" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="left" width="280" alt="" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### Talking about Personal Stuff:
 
