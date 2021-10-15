@@ -9,8 +9,8 @@
 
 I am committed to learning and self-development so that I can consistently achieve better results.
 </div>
-<img align="right" width="300" alt=""  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
+<img align="left" width="300" alt=""  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<div align="right">
 ### Talking about Personal Stuff:
 
 - 🛠 &nbsp; I’m currently studying for Full Stack .NET Developer at [SoftUni](https://softuni.bg/) .
@@ -18,7 +18,7 @@ I am committed to learning and self-development so that I can consistently achie
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; You can reach me: denitsa.dey@gmail.com
 
-
+<div>
 
 
 <div align="center">
