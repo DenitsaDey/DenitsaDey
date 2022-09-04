@@ -13,7 +13,7 @@ I am committed to learning and self-development so that I can consistently achie
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; .NET Developer.
+- 🛠 &nbsp; Full-Stack Web Developer.
 - 💻 &nbsp; My recent project is available on [Github](https://github.com/DenitsaDey/My-Projects).
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 📫 &nbsp; You can reach me at: denitsa.dey@gmail.com
